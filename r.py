@@ -237,7 +237,12 @@ ctx.lists["user.code_functions"] = {
     "que que norm": "qqnorm",
     "anova": "anova",
     "which": "which",
+    "layer dense": "layer_dense",
+    "get weights": "get_weights",
+    "theme": "theme",
+
 }
+
 
 ctx.lists["user.code_libraries"] = {
     "bayes plot": "bayesplot",
@@ -333,6 +338,9 @@ ctx.lists["user.code_parameter_name"] = {
     "yank min": "ymin",
     "yank": "y",
     "replace": "replace",
+    "units": "units",
+    "activation": "activation",
+    "input shape": "input_shape",
 
 }
 

@@ -65,6 +65,7 @@ ctx.lists["user.sql_command_dict"] = {
     "inner join": "INNER JOIN",
     "left join": "LEFT JOIN",
     "right join": "RIGHT JOIN",
+    "having": "HAVING",
     # -----------compound commands-----------------
     "insert into": "INSERT INTO",
     "select star from": "SELECT * FROM",
@@ -137,6 +138,7 @@ ctx.lists["user.sql_command_nodict"] = {
     "inner join": "INNER JOIN",
     "left join": "LEFT JOIN",
     "right join": "RIGHT JOIN",
+    "having": "HAVING",
     # -----------compound commands-----------------
     "select star from": "SELECT * FROM",
     "insert into": "INSERT INTO",
@@ -186,4 +188,5 @@ ctx.lists["user.sql_functions"] = {
     "if null": "IFNULL",
     "round": "ROUND",
     "if": "IF",
+    "primary key": "PRIMARY KEY",
 }
